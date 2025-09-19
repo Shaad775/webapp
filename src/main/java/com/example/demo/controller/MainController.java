@@ -9,6 +9,6 @@ public class MainController {
     @GetMapping
     public String greet()
     {
-        return "Welcome to our web application!\n\nThis is Devops assignment number 6";
+        return "Welcome to our web application!\n\nThis is Devops assignment number 9";
     }
 }
